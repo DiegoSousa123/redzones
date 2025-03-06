@@ -85,11 +85,15 @@ nav ul li a:hover {
 
 /* Seções Gerais */
 .container {
-    padding: 40px;
+    padding: 10px;
     text-align: center;
     background: url('images/paintball-background.jpg') center/cover;
 }
-
+.espaco__image{
+    width: 100%;
+    max-width: 570px;
+    height: auto;
+}
 h2 {
     font-size: 32px;
     color: #FFD700;
